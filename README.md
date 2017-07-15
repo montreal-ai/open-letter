@@ -1,6 +1,7 @@
 # We are Montreal AI
 
 To: Applicants for the Innovation Superclusters Initiative (ISI) in Montreal
+
 From: The Montreal Artificial Intelligence (AI) community
 
 Hello!
